@@ -1,0 +1,8 @@
+img
+{
+    width: 700px; height: 500px;
+}
+button
+{
+    padding: 10px; background-color: orange; font-size: 30px; border: none; border-radius: 5px;
+}
